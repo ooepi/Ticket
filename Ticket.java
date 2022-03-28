@@ -3,3 +3,5 @@ class HelloWorld {
         System.out.println("Data from IoT Ticket now in git.vamk.fi");
     }
 }
+
+print("Hello from Pave")
